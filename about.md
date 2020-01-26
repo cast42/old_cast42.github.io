@@ -1,4 +1,8 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+My name is Lode Nachtergaele.
+I am an engineer by training, and currently am data scientist
+at the Colruyt Group Retailer in Belgium
+[Colruyt Group](https://www.colruytgroup.com/wps/portal/cg/en/home), where I spend time on
+writing notebooks in Python.
 
