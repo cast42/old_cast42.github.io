@@ -5,3 +5,5 @@ There's a [notebook](https://github.com/cast42/cast42.github.io/blob/master/_not
 in the [_notebooks](https://github.com/cast42/cast42.github.io/blob/master/_notebooks/) directory but I does not generate a post yet.
 
 I keep on debugging.
+
+I appears that you have to add '/sync' to commit message.
