@@ -1,6 +1,6 @@
 # Plotting regression line with confidence bands in Altair 4
 
-I'm a big fan of [Altair](https://altair-viz.github.io/) that allows for declarative visualisation in Python.
+I'm a big fan of [Altair](https://altair-viz.github.io/) created by [Jake Vanderplas](https://github.com/jakevdp). It's a python library that allows for declarative visualisation.
 In Version 4, a regression transform is added that makes it easy to draw a regression line on a scatter plot.
 The example from the Altair website:
 
