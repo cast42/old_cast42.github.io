@@ -7,3 +7,5 @@ in the [_notebooks](https://github.com/cast42/cast42.github.io/blob/master/_note
 I keep on debugging.
 
 I appears that you have to add '/sync' to commit message.
+
+At least the convertion process has triggered: [https://github.com/cast42/cast42.github.io/runs/409790938](https://github.com/cast42/cast42.github.io/runs/409790938)
