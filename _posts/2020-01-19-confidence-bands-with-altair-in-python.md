@@ -25,7 +25,7 @@ chart + chart.transform_regression('x', 'y').mark_line()
 
 ![](/images/altair_regression_transform.png "Result of regression transform on Altair scatter graph")
 
-Even higher order regression lines are possible. See [](https://altair-viz.github.io/gallery/poly_fit_regression.html?highlight=regression)
+Even [higher order regression](https://altair-viz.github.io/gallery/poly_fit_regression.html?highlight=regression) lines are possible.
 
 To calculate the confidence band of the regression, I used the Python code from a blogpost titled [the hackers guide to uncertainty estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html) written by [Erik Bernhardsson](https://erikbern.com/)
 
