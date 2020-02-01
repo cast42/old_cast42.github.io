@@ -1,3 +1,3 @@
-# Your blog
+# cast42's blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+My [fast_template](https://github.com/fastai/fast_template/) website: [https://cast42.github.io/](https://cast42.github.io/)
