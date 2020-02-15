@@ -18,7 +18,8 @@ summary: "Bullet charts in Altair"
 -->
 
 <div class="container" id="notebook-container">
-    
+    {% raw %}
+        
 <div class="cell border-box-sizing code_cell rendered">
 
 </div>
@@ -175,6 +176,7 @@ Here is an example bullet chart from the article:</p>
 </div>
 
 </div>
+    {% endraw %}
 </div>
  
 
